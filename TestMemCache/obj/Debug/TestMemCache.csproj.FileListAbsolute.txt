@@ -1,0 +1,9 @@
+D:\Project\TestMemCache\bin\TestMemCache.dll
+D:\Project\TestMemCache\bin\TestMemCache.pdb
+D:\Project\TestMemCache\bin\Enyim.Caching.dll
+D:\Project\TestMemCache\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestMemCache\obj\Debug\TestMemCache.dll
+D:\Project\TestMemCache\obj\Debug\TestMemCache.pdb
+D:\Project\TestMemCache\bin\Enyim.Caching.Log4NetAdapter.dll
+D:\Project\TestMemCache\bin\Enyim.Caching.NLogAdapter.dll
+D:\Project\TestMemCache\bin\log4net.dll
